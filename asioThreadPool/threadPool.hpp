@@ -9,8 +9,7 @@ using namespace boost;
 typedef std::shared_ptr<std::thread> thread_ptr;
 typedef std::vector<thread_ptr> vecThread;
 
-class ThreadPool
-{
+class ThreadPool {
 public:
     ThreadPool(int num) : threadNum_(num), stopped_(false), work_(io_) {
         for(int i=i; i<threadNum_; ++i) {
