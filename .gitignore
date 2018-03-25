@@ -34,3 +34,4 @@
 # clion
 cmake-build-debug
 build
+*.idea
