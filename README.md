@@ -1,5 +1,9 @@
 # cpptest
 
+### 算法
+* [strcpy/memcpy/memmov/atoi实现](https://github.com/ender233/cpptest/tree/master/ctest)
+
+
 * [asio实现线程池](https://github.com/ender233/cpptest/tree/master/asioThreadPool)
 * [c++11实现线程池](https://github.com/ender233/cpptest/tree/master/ThreadPool)
 * [auto_ptr简易实现](https://github.com/ender233/cpptest/blob/master/auto_ptr/my_autoPtr.hpp)
@@ -8,3 +12,4 @@
 
 * [std::function使用](https://github.com/ender233/cpptest/tree/master/function)
 * [std::unique_ptr实现IMPL惯用法](https://github.com/ender233/cpptest/tree/master/pimpl)
+
